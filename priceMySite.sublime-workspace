@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"el",
+				"element"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"get_te",
+				"get_template_directory_uri"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 512,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/sitePriceCalc.js",
+			"settings":
+			{
+				"buffer_size": 2730,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: re",
+		"selected_items":
+		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/thebrookehooper/Documents/html testing ground/priceMySite",
+		"/Users/thebrookehooper/Documents/html testing ground/priceMySite/js"
+	],
+	"file_history":
+	[
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/User/theme_tweaker.sublime-settings",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/ThemeTweaker/theme_tweaker.sublime-settings",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/thebrookehooper/Documents/html testing ground/priceMySite/js/sitePriceCalc.js",
+		"/Users/thebrookehooper/Documents/html testing ground/priceMySite/index.html",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/assets/accents/numix/buttons/button_buffer_on.png",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/sources/themes/variants/bar.json",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/sources/themes/variants/controls.json",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/sources/themes/variants/scrollbars.json",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/sources/themes/variants/sidebar.json",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/sources/themes/yesterday.json",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/sources/widgets/widget.sublime-settings",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/sources/widgets/widget.stTheme",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/utils/__init__.py",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/sources/settings/common.json",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/widgets/Widget - Boxy Yesterday.stTheme",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/widgets/Widget - Boxy Yesterday.sublime-settings",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+		"/private/var/folders/fq/15h0f4xs2874twqvnhkqpms40000gn/T/fz3temp-2/main.js",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/themes/golden-hour/functions-alt.php",
+		"/Users/thebrookehooper/Downloads/OnlineWebFonts_COM_5fedd0e951fb6c8ccea402a0d2c6d6d2/@font-face/Demo.html",
+		"/Users/thebrookehooper/Downloads/OnlineWebFonts_COM_5fedd0e951fb6c8ccea402a0d2c6d6d2/Canter Bold/Canter Bold.woff2",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/plugins/golden-carousel/admin/partials/golden-carousel-admin-display.php",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/plugins/golden-carousel/includes/class-golden-carousel.php",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/plugins/golden-carousel/admin/class-golden-carousel-admin.php",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/plugins/golden-carousel/public/class-golden-carousel-public.php",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/plugins/golden-carousel/golden-carousel.php",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/plugins/golden-carousel/admin/js/golden-carousel-admin.js",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/themes/golden-hour/js/custom.js",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/plugins/golden-carousel/includes/class-golden-carousel-activator.php",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-admin/js/common.js",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/plugins/golden-carousel/includes/class-golden-carousel-deactivator.php",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/plugins/golden-hour-carousel/golden-hour-carousel.php",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/themes/golden-hour/sftp-config.json",
+		"/Users/thebrookehooper/Documents/html testing ground/index.html",
+		"/var/folders/fq/15h0f4xs2874twqvnhkqpms40000gn/T/sublime-sftp-browse-1486826960/BrookableServer/public_html/wp-content/themes/golden-hour/js/custom.min.js",
+		"/var/folders/fq/15h0f4xs2874twqvnhkqpms40000gn/T/sublime-sftp-browse-1486826920/BrookableServer/public_html/wp-content/themes/golden-hour/js/custom.js",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/BrookableServer",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-content/themes/golden-hour/page.php",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/Minifier/Minifier.sublime-settings",
+		"/Users/thebrookehooper/Library/Application Support/Sublime Text 3/Packages/User/Minifier.sublime-settings",
+		"/Applications/wordpress-4.7.php56-0/apps/wordpress/htdocs/wp-activate.php"
+	],
+	"find":
+	{
+		"height": 73.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wp_cbf",
+			"jQuery",
+			"$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"golden_carousel",
+			"$",
+			"jQuery"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 17,
+							"color_helper.color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"rgb",
+									"hex",
+									"rgba",
+									"hex_compressed",
+									"hsla",
+									"hsl",
+									"webcolors"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1494611538.09,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/sitePriceCalc.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2655,
+								2655
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 17,
+							"color_helper.color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1494611538.09
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 986.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "priceMySite.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
